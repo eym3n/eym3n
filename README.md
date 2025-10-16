@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aymen Zitouni (eym3n)</h1>
-<h3 align="center">AI Software Engineer | Fullstack Developer | Multi-Agent Systems Enthusiast</h3>
+<h3 align="center">AI & Software Engineer | Fullstack Developer | Multi-Agent Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eym3n&label=Profile%20views&color=0e75b6&style=flat" alt="eym3n profile views"/>
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as an **AI Software Engineer at [Ayor.ai](https://ayor.ai)**
+- 🔭 Currently working as an **AI Tech Lead at [Ayor.ai](https://ayor.ai)**
 - 🧠 MSc in **Software Engineering** from the University of Science and Technology H. Boumediene (2024)
 - 🌍 Based in **Algiers, Algeria**
 - 💡 Passionate about **Generative AI, Multi-Agent Systems, RAG pipelines, and Cloud Architecture**
