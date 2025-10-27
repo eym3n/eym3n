@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 **AI & ML**  
-LangChain · LlamaIndex · Hugging Face Transformers · AutoGen · Agents SDK · Pinecone · LoRA · RLHF  
+LangChain · Langgraph · Hugging Face Transformers · AutoGen · Agents SDK · Pinecone · LoRA · RLHF  
 
 **Backend**  
 FastAPI · Flask · Django REST Framework · Express.js · NestJS  
