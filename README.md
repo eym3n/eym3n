@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as an **AI Tech Lead at [Ayor.ai](https://ayor.ai)**
+- 🔭 Currently working as an **AI Engineer at [UST](https://ust.com) (California, USA)**
 - 🧠 MSc in **Software Engineering** from the University of Science and Technology H. Boumediene (2024)
 - 🌍 Based in **Algiers, Algeria**
 - 💡 Passionate about **Generative AI, Multi-Agent Systems, RAG pipelines, and Cloud Architecture**
