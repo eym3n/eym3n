@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as an **AI Engineer at [UST](https://ust.com) (California, USA)**
-- 🧠 MSc in **Software Engineering** from the University of Science and Technology H. Boumediene (2024)
+- 🔭 Currently working as an **Agentic AI Engineer at [UST](https://ust.com)
+- 🧠 MSc in **Software Engineering**
 - 🌍 Based in **Algiers, Algeria**
 - 💡 Passionate about **Generative AI, Multi-Agent Systems, RAG pipelines, and Cloud Architecture**
-- 🎯 Focused on building scalable AI-driven SaaS platforms
+- 🎯 Focused on building scalable AI-driven solutions
 
 ---
 
