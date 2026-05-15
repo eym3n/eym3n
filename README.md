@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as an **Agentic AI Engineer at [UST](https://ust.com)
+- 🔭 Currently working as an **Agentic AI Engineer** at [UST](https://ust.com)
 - 🧠 MSc in **Software Engineering**
 - 🌍 Based in **Algiers, Algeria**
 - 💡 Passionate about **Generative AI, Multi-Agent Systems, RAG pipelines, and Cloud Architecture**
